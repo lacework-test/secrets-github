@@ -1,2 +1,0 @@
-# secrets-github
-Secrets testing
